@@ -1,0 +1,6 @@
+{
+  "name": "Битва Воинов: 2D Арена",
+  "description": "Красочная мультяшная 2D-игра сражения двух воинов: могучего Воина с топором и ловкого Магического лучника.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
